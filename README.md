@@ -25,13 +25,17 @@ The dataset `insurance.csv` contains the following columns:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/linear-regression-insurance.git
-    cd linear-regression-insurance
+    git clone https://github.com/kusayvarde/linear-regression.git
+    cd linear-regression
     ```
 
 2. Install the required dependencies:
     ```sh
-    pip install -r requirements.txt
+    pip install skilearn
+    pip install seaborn
+    pip install pandas
+    pip install numpy
+    pip install matplotlib
     ```
 
 ## Usage
